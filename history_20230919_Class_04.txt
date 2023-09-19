@@ -1,0 +1,54 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  git clone https://github.com/NikoleNika/RTR105
+    4  ls-lt| grep RTR[E
+    5  rmdir RTR[E
+    6  ls-lt
+    7  rm RTR[E
+    8  rm-r RTR[E
+    9  ls-lt
+   10  whoami
+   11  who
+   12  pwd
+   13  ls
+   14  ls-lt
+   15  ls -lt
+   16  git
+   17  man git
+   18  git clone https://github.com/dashboard
+   19  git clone https://github.com/NikoleNika?tab=repositories
+   20  git --
+   21  git clone https://github.com/NikoleNika?tab=repositories
+   22  git clone github.com/NikoleNika?tab=repositories
+   23  git clone https://github.com/NikoleNika/RTR105
+   24  pwd
+   25  ls -lt
+   26  bit
+   27  nano
+   28  chmod git-hub
+   29  chmod 754 git-hub 
+   30  nano
+   31  PATH=$PATH:~/RTR105
+   32  echo $PATH
+   33  git -upload
+   34  ls -lt
+   35  git -hub
+   36  git-hub
+   37  cd ~/RTR105
+   38  whoami
+   39  ls -lt
+   40  ls- la
+   41  cd .git/
+   42  ls
+   43  ls-lt
+   44  ls -lt
+   45  cat index
+   46  cat config
+   47  hexdump -C congig
+   48  hexdump -C config
+   49  hexdump -C index
+   50  cat index
+   51  cd ..
+   52  pwd
+   53  history
+   54  history > history_20230919_Class_04.txt
