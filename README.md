@@ -12,3 +12,4 @@ Skatīšanas sistēmas bāze 1) bin- 2 (0,1) 2) oct- 8 (0..7) 3) dec-10 (0...9) 
 0/1 - bits
 1 byte= 8 bits
 2^8=256
+pirmie 32 simboli ir darbīvbas simboli 
