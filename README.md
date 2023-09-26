@@ -9,3 +9,6 @@ man pwd
 history  
 # 4.nodarbības "atziņas"
 Skatīšanas sistēmas bāze 1) bin- 2 (0,1) 2) oct- 8 (0..7) 3) dec-10 (0...9) 4) hex- 16 (0...9, A...F)
+0/1 - bits
+1 byte= 8 bits
+2^8=256
