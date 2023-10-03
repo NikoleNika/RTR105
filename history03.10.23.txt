@@ -1,0 +1,43 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  git clone https://github.com/NikoleNika/RTR105
+    4  cd RTR105
+    5  mkdir Class_07
+    6  cd Class_07
+    7  nano 6.nodarbiba
+    8  ls -lt
+    9  gcc 6.nodarbiba
+   10  ./a.out
+   11  nano 6.nodarbiba
+   12  nano 6.nodarbiba.c
+   13  ls -lt
+   14  gcc 6.nodarbiba.c
+   15  ls -lt
+   16  ./a.out
+   17  nano second_6.nondarbiba
+   18  gcc second_6.nondarbiba
+   19* 
+   20  ls -lt
+   21  echo &?
+   22  echo$?
+   23  echo $?
+   24  ls -lt
+   25  ./a.out
+   26  cat second_6.nondarbiba
+   27  cat second_6.nondarbiba.c
+   28  ls -lt
+   29  cat a.out
+   30  nano second_6.nondarbiba
+   31  nano 6.nodarbiba.c
+   32  nano second
+   33  ls -lt
+   34  gcc second.c -o second.out
+   35  nano second
+   36  nano second.c
+   37  gcc second.c
+   38  ls -lt
+   39  cat second.c
+   40  cat a.out
+   41  gcc second.c second.out
+   42  history > history 03.10.23
+   43  history > history03.10.23.txt
