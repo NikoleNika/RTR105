@@ -1,0 +1,112 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  git clone https://github.com/NikoleNika/RTR105
+    4  cd RTR105
+    5  mkdir Class_15
+    6  cd Class_15
+    7  gnuplot --version
+    8  gnuplot
+    9  nano gnuplot example
+   10  ls -lt
+   11  chmod 744 gnuplot_example.gp
+   12  ls -lt
+   13  ./gnuplot_example.gp
+   14  nano gnuplot_example.gp
+   15  ls -lt
+   16  gnuplot --version
+   17  gnuplot
+   18  gnuplot --version
+   19  gnuplot
+   20  nano gnuplot_example.gp
+   21  ls -lt
+   22  ./gnuplot_example.gp
+   23  gnuplot --version
+   24  gnuplot
+   25  gnuplot --version
+   26  gnuplot
+   27  nano gnuplot_2
+   28  ls -lt
+   29  chmod 744 gnuplot_2.gp
+   30  ls -lt
+   31  gnuplot --version
+   32  gnuplot
+   33  nano gnuplot_3
+   34  ls -lt
+   35  chmod 744 gnuplot_3.gp
+   36  ls -lt
+   37  ./gnuplot_3.gp
+   38  gnuplot --version
+   39  gnuplot
+   40  gnuplot --version
+   41  gnuplot
+   42  nano gnuplot.4
+   43  ls -lt
+   44  chmof 744 gnuplot.4.gp
+   45  chmod 744 gnuplot.4.gp
+   46  ls -lt
+   47  gnuplot --version
+   48  gnuplot
+   49  gnuplot --version
+   50  gnuplot
+   51  nano gnuplot_5
+   52  ls -lt
+   53  chmod  gnuplot_5.gp
+   54  chmod gnuplot_5.gp
+   55  chmod 744 gnuplot_5.gp
+   56  ./gnuplot_5.gp
+   57  nano gnuplot_5.gp
+   58  ls -lt
+   59  chmod 744 gnuplot_5.gp
+   60  ./gnuplot_5.gp
+   61  nano gnuplot_5.gp
+   62  chmod 744 gnuplot_5.gp
+   63  ./gnuplot_5.gp
+   64  nano gnuplot_5.gp
+   65  chmod 744 gnuplot_5.gp
+   66  ./gnuplot_5.gp
+   67  nano gnuplot_5.gp
+   68  chmod 744 gnuplot_5.gp
+   69  nano gnuplot_5.gp
+   70  chmod 744 gnuplot_5.gp
+   71  ./gnuplot_5.gp
+   72  nano gnuplot_5.gp
+   73  chmod 744 gnuplot_5.gp
+   74  ./gnuplot_5.gp
+   75  nano gnuplot_5.gp
+   76  chmod 744 gnuplot_5.gp
+   77  ./gnuplot_5.gp
+   78  nano gnuplot_5.gp
+   79  chmod 744 gnuplot_5.gp
+   80  ./gnuplot_5.gp
+   81  nano gnuplot_5.gp
+   82  chmod 744 gnuplot_5.gp
+   83  ./gnuplot_5.gp
+   84  nano gnuplot_5.gp
+   85  chmod 744 gnuplot_5.gp
+   86  nano gnuplot_5.gp
+   87  ./gnuplot_5.gp
+   88  chmod 744 gnuplot_5.gp
+   89  ./gnuplot_5.gp
+   90  nano gnuplot_5.gp
+   91  mv gnuplot_5.gp versija_5.c
+   92  ls -lt
+   93  nano versija_5.c
+   94  gcc versija_5.c 
+   95  gcc versija_5.c -lm
+   96  ls -lt
+   97  ./a.out 
+   98  nano versija_5.c
+   99  gcc versija_5.c -lm
+  100  nano versija_5.c
+  101  gcc versija_5.c -lm
+  102  nano versija_5.c
+  103  gcc versija_5.c -lm
+  104  chmod 744 versija_5.c 
+  105  ./versija_5.c 
+  106  history
+  107  ls -lt
+  108  ./a.out 
+  109  ls -lt
+  110  history
+  111  history_07.11.txt
+  112  history > history_07.11.txt
